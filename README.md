@@ -1,4 +1,4 @@
-Welcome to Vasu Sahu's GitHub Page! 👋
+## Welcome to Vasu Sahu's GitHub Page! 👋
 
 ## About Me
 Hi there! I'm Vasu Sahu, a passionate Computer Science enthusiast with a love for coding, exploring new technologies, and building cool projects. I'm currently a student at Technocrats Student Of Technoogy .
@@ -7,12 +7,12 @@ Hi there! I'm Vasu Sahu, a passionate Computer Science enthusiast with a love fo
 On this page, you'll discover a collection of projects, ranging from personal experiments to contributions in open source. I enjoy diving into various domains, including Web development , Application Development, and you'll see that reflected in my work.
 
 ## My Mission
-I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause. I'm always eager to connect with like-minded individuals, so feel free to reach out!
+I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause.  I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
 ## Get in Touch
-Have a project idea, want to collaborate, or just want to chat? 
-Don't hesitate to reach me through my gmail at Vasu.sahu.8080@gmail.com .
-You can Also reach me at github at https://github.com/Vasu10134 .
+Have a project idea, want to collaborate, or just want to chat?   
+Don't hesitate to reach me through my gmail at Vasu.sahu.8080@gmail.com .  
+You can Also reach me at github at https://github.com/Vasu10134 .  
 I'm looking forward to hearing from you!
 
 ## Let's Connect
