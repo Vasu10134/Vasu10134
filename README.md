@@ -11,14 +11,15 @@ On this page, you'll discover a collection of projects, ranging from personal ex
 I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause.  I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
 ## Get in Touch
-Have a project idea, want to collaborate, or just want to chat?   
-Don't hesitate to reach me through my gmail at Vasu.sahu.8080@gmail.com .  
-You can Also reach me at github at https://github.com/Vasu10134 .  
+Have a project idea, want to collaborate, or just want to chat?  
+Don't hesitate to reach me through my <a href="Vasu.sahu.8080@gmail.com" target="_blank">Gmail</a>  
+You can Also reach me at <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a> .  
 I'm looking forward to hearing from you!
 
 ## Let's Connect
-- [Vasu.sahu.8080@gmail.com](#) - Connect with me professionally.
-- [https://github.com/Vasu10134](#) - Follow me for updates and insights.
+- [https://www.linkedin.com/in/vasu-sahu-3b79342ba/] - Connect with me professionally.  
+- [Vasu.sahu.8080@gmail.com](#) - Connect with me through Mail.
+- [https://github.com/Vasu10134/](#) - Follow me for updates and insights.
 
 ## Featured Projects
 Here are a few projects I'm particularly proud of. Feel free to explore!
