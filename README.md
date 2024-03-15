@@ -22,7 +22,7 @@ I'm looking forward to hearing from you!
 ## Featured Projects
 Here are a few projects I'm particularly proud of. Feel free to explore!
 
-1. **[CodSoft Virtual Programe]** - Brief description of the project and its significance.
+1. **[CodSoft Virtual Programe]** - CodSoft's Virtual Internship Programe Teaches C++ Programming .
    - [https://github.com/Vasu10134/Codsoft1](#)
 
 ## Support My Work
