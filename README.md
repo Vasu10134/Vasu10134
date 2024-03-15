@@ -1,7 +1,8 @@
 ## Welcome to Vasu Sahu's GitHub Page! 👋
 
 ## About Me
-Hi there! I'm Vasu Sahu, a passionate Computer Science enthusiast with a love for coding, exploring new technologies, and building cool projects. I'm currently a student at Technocrats Student Of Technoogy .
+Hi there! I'm Vasu Sahu, a passionate Computer Science enthusiast with a love for coding, exploring new technologies, and building cool projects. I'm currently a student at <a href="https://technocratsgroup.edu.in/" target="_blank">Technocrats Institute Of Technology</a>
+ .
 
 ## What You'll Find Here
 On this page, you'll discover a collection of projects, ranging from personal experiments to contributions in open source. I enjoy diving into various domains, including Web development , Application Development, and you'll see that reflected in my work.
