@@ -24,17 +24,17 @@ I'm looking forward to hearing from you!
 ## Featured Projects
 Here are a few projects I'm particularly proud of. Feel free to explore!
 
-1. **[CodSoft Virtual Programe]** - *CodSoft's Virtual Internship Programe Teaches C++ Programming* .
+1. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Teaches C++ Programming* .
    - https://github.com/Vasu10134/CodSoft/
 
 ## Internships & Certifications Earned
 Here are some proof of the work i put in...!
 
-1.**[CodSoft Virtual Programe]** - CodSoft's Virtual Internship Programe Certification Letter .  
+1. **CodSoft Virtual Programe** - CodSoft's Virtual Internship Programe Certification Letter .  
 - https://drive.google.com/file/d/1DABUE0IQhMFRYnmEiyPWeLqthw3-Y7V-/view?usp=drive_link  - *CodSoft's Internship Letter*
 - https://drive.google.com/file/d/1DEywgx33KTVbB51jJLe10HFaLCZsM1fZ/view?usp=drive_link  - *CodSoft's Certification Letter*
 
-2.**[HackerRank Certificate]** - HackerRank's Problem Solving(Basic) Certification .  
+2. **HackerRank Certificate** - HackerRank's Problem Solving(Basic) Certification .  
 - https://www.hackerrank.com/certificates/iframe/38e3c5d42019  - *Problem Solving Certification* .
 
 ## Support My Work
