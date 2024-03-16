@@ -25,7 +25,7 @@ I'm looking forward to hearing from you!
 Here are a few projects I'm particularly proud of. Feel free to explore!
 
 1. **[CodSoft Virtual Programe]** - CodSoft's Virtual Internship Programe Teaches C++ Programming .
-   - [https://github.com/Vasu10134/Codsoft1](#)
+   - [https://github.com/Vasu10134/CodSoft/blob/main/README.md/](#)
 
 ## Support My Work
 If you find my projects useful or interesting, consider supporting my work by Sharing my profiles and simply starring repositories].
