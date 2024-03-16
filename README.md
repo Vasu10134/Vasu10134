@@ -18,7 +18,7 @@ I'm looking forward to hearing from you!
 
 ## Let's Connect
 - https://www.linkedin.com/in/vasu-sahu-3b79342ba/ - *Connect with me professionally* .  
-- Vasu.sahu.8080@gmail.com - *Connect with me through Mail* .
+- <a href="mailto:vasu.sahu.8080@gmail.com">Vasu.sahu.8080@gmail.com</a> - *Connect with me through Mail* .
 - https://github.com/Vasu10134 - *Follow me for updates and insights* .
 
 ## Featured Projects
