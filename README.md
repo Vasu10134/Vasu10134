@@ -19,7 +19,7 @@ I'm looking forward to hearing from you!
 ## Let's Connect
 - [https://www.linkedin.com/in/vasu-sahu-3b79342ba/] - Connect with me professionally.  
 - [Vasu.sahu.8080@gmail.com](#) - Connect with me through Mail.
-- [https://github.com/Vasu10134/](#) - Follow me for updates and insights.
+- [https://github.com/Vasu10134/Vasu10134/edit/main/README.md/] - Follow me for updates and insights.
 
 ## Featured Projects
 Here are a few projects I'm particularly proud of. Feel free to explore!
