@@ -27,5 +27,11 @@ Here are a few projects I'm particularly proud of. Feel free to explore!
 1. **[CodSoft Virtual Programe]** - CodSoft's Virtual Internship Programe Teaches C++ Programming .
    - [https://github.com/Vasu10134/CodSoft/]
 
+## Certifications Earned
+Here are some proof of the work i put in...!
+
+1.**[CodSoft Virtual Programe]** - CodSoft's Virtual Internship Programe Certification Letter .  
+- []
+
 ## Support My Work
 If you find my projects useful or interesting, consider supporting my work by Sharing my profiles and simply starring repositories].
