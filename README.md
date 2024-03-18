@@ -10,10 +10,14 @@ On this page, you'll discover a collection of projects, ranging from personal ex
 ## My Mission
 I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause.  I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
-## Get in Touch
+## Get in Touch/Socials
 Have a project idea, want to collaborate, or just want to chat?  
 Don't hesitate to reach me through my <a href="Vasu.sahu.8080@gmail.com" target="_blank">Gmail</a>  
 You can Also reach me at <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a> .  
+View My CodeChef Portfolio at <a href="https://www.codechef.com/users/vasu10134>CodeChef</a>  
+View My LeetCode Portfolio at <a href="https://leetcode.com/Vasu10134/>LeetCode</a>  
+View My HackerRank Portfolio at <a https://www.hackerrank.com/profile/Vasu10134>HackerRank</a>  
+
 I'm looking forward to hearing from you!
 
 ## Let's Connect
