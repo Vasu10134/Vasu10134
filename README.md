@@ -26,18 +26,25 @@ I'm Looking Forward To Hearing From You!
 ## Featured Projects
 Here Are A Few Projects I'm Particularly Proud Of. Feel Free To Explore!
 
-1. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Teaches C++ Programming* .
+1. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Regarding C++ Programming* .
    - https://github.com/Vasu10134/CodSoft/
 
+2. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Regarding JavaScript Development* .
+   - https://github.com/Vasu10134/CodSoft_JS
+   
 ## Internships & Certifications Earned
 Here Are Some Proof Of The Work I Put In...!
 
-1. **CodSoft Virtual Programe** - CodSoft's Virtual Internship Programe Certification Letter .  
+1. **CodSoft Virtual C++ Programe** - CodSoft's Virtual Internship Programe   
 - https://drive.google.com/file/d/1DABUE0IQhMFRYnmEiyPWeLqthw3-Y7V-/view?usp=sharing  - *CodSoft's Internship Letter*
 - https://drive.google.com/file/d/1DEywgx33KTVbB51jJLe10HFaLCZsM1fZ/view?usp=sharing  - *CodSoft's Certification Letter*
 
-2. **HackerRank Certificate** - HackerRank's Problem Solving(Basic) Certification .  
+2. **HackerRank Certification** - HackerRank's Problem Solving(Basic)   
 - https://drive.google.com/file/d/14Z8PliCIM5DTbYPw5_mRnp5fJ7P_UO8T/view?usp=sharing  - *Problem Solving Certification* .
+
+3. **CodSoft Virtual JavaScript Development Programe** - CodSoft's Virtual Internship Programe
+- https://drive.google.com/file/d/1XLLPVeRcguu2I4ofQMqqqYxKhmAK7rFD/view?usp=sharing  - *CodSoft's InternShip Letter*
+- - *CodSoft's Certification Letter*
 
 ## Support My Work
 If You Find My Projects Useful Or Interesting, Consider Supporting My Work By Sharing My Profiles And Simply Starring Repositories .
