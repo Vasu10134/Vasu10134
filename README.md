@@ -43,7 +43,7 @@ Here Are Some Proof Of The Work I Put In...!
 - https://drive.google.com/file/d/14Z8PliCIM5DTbYPw5_mRnp5fJ7P_UO8T/view?usp=sharing  - *Problem Solving Certification* .
 
 3. **CodSoft Virtual JavaScript Development Programe** - CodSoft's Virtual Internship Programe
-- https://drive.google.com/file/d/1XLLPVeRcguu2I4ofQMqqqYxKhmAK7rFD/view?usp=sharing  - *CodSoft's InternShip Letter*
+- https://drive.google.com/file/d/1XLLPVeRcguu2I4ofQMqqqYxKhmAK7rFD/view?usp=sharing  - *CodSoft's Internship Letter*
 - - *CodSoft's Certification Letter*
 
 ## Support My Work
