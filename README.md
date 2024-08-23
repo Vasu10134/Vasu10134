@@ -22,29 +22,21 @@ I'm Looking Forward To Hearing From You!
 - https://www.linkedin.com/in/vasu-sahu-3b79342ba/ - *Connect with me professionally* .  
 - <a href="mailto:vasu.sahu.8080@gmail.com">Vasu.sahu.8080@gmail.com</a> - *Connect with me through Mail* .
 - https://github.com/Vasu10134 - *Follow me for updates and insights* .
-
-## Featured Projects
-Here Are A Few Projects I'm Particularly Proud Of. Feel Free To Explore!
-
-1. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Regarding C++ Programming* .
-   - https://github.com/Vasu10134/CodSoft/
-
-2. **CodSoft Virtual Programe** - *CodSoft's Virtual Internship Programe Regarding JavaScript Development* .
-   - https://github.com/Vasu10134/CodSoft_JS
    
-## Internships & Certifications Earned
+## Achievement & Certifications
 Here Are Some Proof Of The Work I Put In...!
 
-1. **CodSoft Virtual C++ Programe** - CodSoft's Virtual Internship Programe   
-- https://drive.google.com/file/d/1DABUE0IQhMFRYnmEiyPWeLqthw3-Y7V-/view?usp=sharing  - *CodSoft's Internship Letter*
-- https://drive.google.com/file/d/1DEywgx33KTVbB51jJLe10HFaLCZsM1fZ/view?usp=sharing  - *CodSoft's Certification Letter*
+1. **CodeChef 250+ Problem Solved**
+- https://www.codechef.com/users/vasu10134 - *Codechef Profile*
 
-2. **HackerRank Certification** - HackerRank's Problem Solving(Basic)   
-- https://drive.google.com/file/d/14Z8PliCIM5DTbYPw5_mRnp5fJ7P_UO8T/view?usp=sharing  - *Problem Solving Certification* .
+2. **HackerRank Certification** - HackerRank's SQL certification
+- https://www.hackerrank.com/certificates/e36a77109058 - *SQL Certification*
 
-3. **CodSoft Virtual JavaScript Development Programe** - CodSoft's Virtual Internship Programe
-- https://drive.google.com/file/d/1XLLPVeRcguu2I4ofQMqqqYxKhmAK7rFD/view?usp=sharing  - *CodSoft's Internship Letter*
-- - *CodSoft's Certification Letter*
+3. **HackerRank Certification** - HackerRank's Problem Solving   
+- https://www.hackerrank.com/certificates/38e3c5d42019 - *Problem Solving Certification*
+
+4. **5 Star Badges at C++ & Java language**
+- https://www.hackerrank.com/profile/Vasu10134 - *HackerRank Pofile*
 
 ## Support My Work
 If You Find My Projects Useful Or Interesting, Consider Supporting My Work By Sharing My Profiles And Simply Starring Repositories .
