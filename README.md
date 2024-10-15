@@ -22,21 +22,6 @@ I'm Looking Forward To Hearing From You!
 - https://www.linkedin.com/in/vasu-sahu-3b79342ba/ - *Connect with me professionally* .  
 - <a href="mailto:vasu.sahu.8080@gmail.com">Vasu.sahu.8080@gmail.com</a> - *Connect with me through Mail* .
 - https://github.com/Vasu10134 - *Follow me for updates and insights* .
-   
-## Achievement & Certifications
-Here Are Some Proof Of The Work I Put In...!
-
-1. **CodeChef 250+ Problem Solved**
-- https://www.codechef.com/users/vasu10134 - *Codechef Profile*
-
-2. **HackerRank Certification** - HackerRank's SQL certification
-- https://www.hackerrank.com/certificates/e36a77109058 - *SQL Certification*
-
-3. **HackerRank Certification** - HackerRank's Problem Solving   
-- https://www.hackerrank.com/certificates/38e3c5d42019 - *Problem Solving Certification*
-
-4. **5 Star Badges at C++ & Java language**
-- https://www.hackerrank.com/profile/Vasu10134 - *HackerRank Pofile*
 
 ## Support My Work
 If You Find My Projects Useful Or Interesting, Consider Supporting My Work By Sharing My Profiles And Simply Starring Repositories .
