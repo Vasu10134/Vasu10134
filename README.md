@@ -1,27 +1,26 @@
-## Welcome To Vasu Sahu's GitHub Page! 👋
+## Welcome to Vasu Sahu's GitHub Page! 👋
 
 ## About Me
-Hi There! I'M *Vasu Sahu*, A Passionate Computer Science Enthusiast With A Love For Coding, Exploring New Technologies, And Building Cool Projects. I'M Currently A Student At <A href="https://technocratsgroup.edu.in/" target="_blank">Technocrats Institute Of Technology</A>
- .
+Hi there! I'm *Vasu Sahu*, a passionate computer science enthusiast with a love for coding, exploring new technologies, and building cool projects. I'm currently a student at <a href="https://technocratsgroup.edu.in/" target="_blank">Technocrats Institute of Technology</a>.
 
 ## What You'll Find Here
-On This Page, You'll Discover A Collection Of Projects, Ranging From Personal Experiments To Contributions In Open Source. I Enjoy Diving Into Various Domains, Including Web Development , Application Development, And You'll See That Reflected In My Work.
+On this page, you'll discover a collection of projects, ranging from personal experiments to contributions in open source. I enjoy diving into various domains, including web development, application development, and you'll see that reflected in my work.
 
 ## My Mission
-I Believe In The Power Of Collaboration And Knowledge Sharing. Through My Projects, I Aim To Become Better At Conquering My Corporate Goals, Whether It'S Solving Real-World Problems, Learning New Skills, Or Contributing To A Particular Cause.  I'M Always Eager To Connect With Like-Minded Individuals, So Feel Free To Reach Out!
+I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause. I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
 ## Socials
-Have A Look At My Ideas...If You Want To Collaborate, Or Just Want To Chat?    
-You Can Reach Me At <A href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</A> .  
-View My CodeChef Portfolio at <A href="https://www.codechef.com/users/vasu10134/">CodeChef</A>  
-View My LeetCode Portfolio at <A href="https://leetcode.com/Vasu10134/">LeetCode</A>  
-View My HackerRank Portfolio at <A href="https://www.hackerrank.com/profile/Vasu10134/">HackerRank</A>  
-I'M Looking Forward To Hearing From You!
+Have a look at my ideas...if you want to collaborate, or just want to chat?    
+You can reach me at <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a>.    
+View my CodeChef portfolio at <a href="https://www.codechef.com/users/vasu10134/">CodeChef</a>.    
+View my LeetCode portfolio at <a href="https://leetcode.com/Vasu10134/">LeetCode</a>.    
+View my HackerRank portfolio at <a href="https://www.hackerrank.com/profile/Vasu10134/">HackerRank</a>.    
+I'm looking forward to hearing from you!
 
 ## Let's Connect
-- <A href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</A> - *Connect with me professionally* .  
-- <A href="mailto:vasu.sahu.8080@gmail.com">Mail</A> - *Connect with me through Mail* .
-- <A href="https://github.com/Vasu10134/">Github</A> - *Follow my github's repository for updates and insights* .
+- <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
+- <a href="mailto:vasu.sahu.8080@gmail.com">Mail</a> - *Connect with me through mail*.    
+- <a href="https://github.com/Vasu10134/">GitHub</a> - *Follow my GitHub repository for updates and insights*.
 
 ## Support My Work
-If You Find My Projects Useful Or Interesting, Consider Supporting My Work By Sharing My Profiles And Simply Starring Repositories .
+If you find my projects useful or interesting, consider supporting my work by sharing my profiles and simply starring repositories.
