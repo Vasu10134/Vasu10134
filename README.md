@@ -18,7 +18,7 @@ View My LeetCode Portfolio at <A href="https://leetcode.com/Vasu10134/">LeetCode
 View My HackerRank Portfolio at <A href="https://www.hackerrank.com/profile/Vasu10134/">HackerRank</A>  
 I'M Looking Forward To Hearing From You!
 
-## Let'S Connect
+## Let's Connect
 - <A href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</A> - *Connect with me professionally* .  
 - <A href="mailto:vasu.sahu.8080@gmail.com">Mail</A> - *Connect with me through Mail* .
 - <A href="https://github.com/Vasu10134/">Github</A> - *Follow my github's repository for updates and insights* .
