@@ -11,14 +11,14 @@ I believe in the power of collaboration and knowledge sharing. Through my projec
 
 ## Socials
 Have a look at my ideas...if you want to collaborate, or just want to chat?    
-You can reach me at <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a>.    
+You can reach me at <a href="https://www.linkedin.com/in/vasu-sahu-58b991319/" target="_blank">LinkedIn</a>.    
 View my CodeChef portfolio at <a href="https://www.codechef.com/users/vasu10134/">CodeChef</a>.    
 View my LeetCode portfolio at <a href="https://leetcode.com/Vasu10134/">LeetCode</a>.    
 View my HackerRank portfolio at <a href="https://www.hackerrank.com/profile/Vasu10134/">HackerRank</a>.    
 I'm looking forward to hearing from you!
 
 ## Let's Connect
-- <a href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
+- <a href="https://www.linkedin.com/in/vasu-sahu-58b991319/" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
 - <a href="mailto:vasu.sahu.8080@gmail.com">Mail</a> - *Connect with me through mail*.    
 - <a href="https://github.com/Vasu10134/">GitHub</a> - *Follow my GitHub repository for updates and insights*.
 
