@@ -19,9 +19,9 @@ View My HackerRank Portfolio at <A href="https://www.hackerrank.com/profile/Vasu
 I'M Looking Forward To Hearing From You!
 
 ## Let'S Connect
-- https://www.linkedin.com/in/vasu-sahu-3b79342ba/ - *Connect with me professionally* .  
-- <A href="mailto:vasu.sahu.8080@gmail.com">Vasu.sahu.8080@gmail.com</A> - *Connect with me through Mail* .
-- https://github.com/Vasu10134 - *Follow me for updates and insights* .
+- <A href="https://www.linkedin.com/in/vasu-sahu-3b79342ba/" target="_blank">LinkedIn</A> - *Connect with me professionally* .  
+- <A href="mailto:vasu.sahu.8080@gmail.com">Mail</A> - *Connect with me through Mail* .
+- <A href="https://github.com/Vasu10134/">Github</A> - *Follow my github's repository for updates and insights* .
 
 ## Support My Work
 If You Find My Projects Useful Or Interesting, Consider Supporting My Work By Sharing My Profiles And Simply Starring Repositories .
