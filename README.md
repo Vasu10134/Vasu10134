@@ -17,12 +17,12 @@ View my HackerRank portfolio at <a href="https://www.hackerrank.com/profile/Vasu
 I'm looking forward to hearing from you!
 
 ## Centralization
-Have a look at my professional journey...
-You can reach me at <a href="https://www.linkedin.com/in/vasusahu/" target="_blank">LinkedIn</a>.
-You can reach me at <a href="https://apna.co/candidate/profile" target="_blank">Apna</a>.  
-You can reach me at <a href="https://www.glassdoor.co.in/Community/index.htm" target="_blank">Glassdoor</a>.  
-You can reach me at <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">Naukri</a>.  
-You can reach me at <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">Indeed</a>.  
+Have a look at my professional journey...  
+You can reach my Linkedin at <a href="https://www.linkedin.com/in/vasusahu/" target="_blank">LinkedIn</a>.  
+You can reach my Apna at <a href="https://apna.co/candidate/profile" target="_blank">Apna</a>.  
+You can reach my Glassdoor at <a href="https://www.glassdoor.co.in/Community/index.htm" target="_blank">Glassdoor</a>.  
+You can reach my Naukri at <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">Naukri</a>.  
+You can reach my Indeed at <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">Indeed</a>.  
 
 ## Let's Connect
 - <a href="https://www.linkedin.com/in/vasusahu" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
