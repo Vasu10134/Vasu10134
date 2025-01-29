@@ -9,13 +9,20 @@ On this page, you'll discover a collection of projects, ranging from personal ex
 ## My Mission
 I believe in the power of collaboration and knowledge sharing. Through my projects, I aim to become better at conquering my corporate goals, whether it's solving real-world problems, learning new skills, or contributing to a particular cause. I'm always eager to connect with like-minded individuals, so feel free to reach out!
 
-## Socials
-Have a look at my ideas...if you want to collaborate, or just want to chat?    
-You can reach me at <a href="https://www.linkedin.com/in/vasusahu/" target="_blank">LinkedIn</a>.    
+## Competitivity
+Have a look at my competitive profiles...if you want to collaborate, or just want to chat?  
 View my CodeChef portfolio at <a href="https://www.codechef.com/users/vasu10134/">CodeChef</a>.    
 View my LeetCode portfolio at <a href="https://leetcode.com/Vasu10134/">LeetCode</a>.    
 View my HackerRank portfolio at <a href="https://www.hackerrank.com/profile/Vasu10134/">HackerRank</a>.    
 I'm looking forward to hearing from you!
+
+## Centralization
+Have a look at my professional journey...
+You can reach me at <a href="https://www.linkedin.com/in/vasusahu/" target="_blank">LinkedIn</a>.
+You can reach me at <a href="https://apna.co/candidate/profile" target="_blank">Apna</a>.  
+You can reach me at <a href="https://www.glassdoor.co.in/Community/index.htm" target="_blank">Glassdoor</a>.  
+You can reach me at <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">Naukri</a>.  
+You can reach me at <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">Indeed</a>.  
 
 ## Let's Connect
 - <a href="https://www.linkedin.com/in/vasusahu" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
