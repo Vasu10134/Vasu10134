@@ -25,7 +25,7 @@ You can reach my Naukri at <a href="https://www.naukri.com/mnjuser/profile?id=&a
 You can reach my Indeed at <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">Indeed</a>.  
 
 ## Let's Connect
-- <a href="https://www.linkedin.com/in/vasusahu" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
+- <a href="https://www.linkedin.com/in/vasusahu123" target="_blank">LinkedIn</a> - *Connect with me professionally*.    
 - <a href="mailto:vasu.sahu.8080@gmail.com">Mail</a> - *Connect with me through mail*.    
 - <a href="https://github.com/Vasu10134/">GitHub</a> - *Follow my GitHub repository for updates and insights*.
 
