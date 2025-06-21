@@ -1,5 +1,5 @@
 # 👨‍💻 Vasu Sahu  
-Fullstack Dev | Java Backend | Web Dev | DevOps Engineer
+# Fullstack Dev | Java Backend | Web Dev | DevOps Engineer
 
 ## About Me  
 I’m a hands-on developer who loves building real-world systems using Java, Spring Boot, and React.  
