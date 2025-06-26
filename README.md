@@ -16,8 +16,9 @@ I’m here to ship production-ready code, automate the boring stuff, and never s
 Collaboration, consistency, and code that speaks for itself—that’s the mindset.
 
 ## 🏆 Coding Profiles  
-- [CodeChef](https://www.codechef.com/users/vasu10134)  
 - [LeetCode](https://leetcode.com/Vasu10134/)  
+- [CodeChef](https://www.codechef.com/users/vasu10134)  
+- [HackerRank](https://www.hackerrank.com/profile/vasusahu)  
 
 ## 📬 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/vasusahu)  
