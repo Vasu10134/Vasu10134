@@ -18,7 +18,7 @@
 - 🎯 Deploy and Scale | From MERN apps to end-to-end solutions
 
 ## 🏆 Professional Profiles  
-- [LeetCode](https://leetcode.com/Vasu10134/)  
+- [LeetCode](https://leetcode.com/Vasusahu/)  
 - [CodeChef](https://www.codechef.com/users/vasu10134)  
 - [HackerRank](https://www.hackerrank.com/profile/vasusahu)
 - [Netlify](https://app.netlify.com/teams/vasusahu/projects)  
